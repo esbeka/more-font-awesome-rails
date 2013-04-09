@@ -1,4 +1,4 @@
-This gem vendors all the [font-awesome-more](http://gregoryloucas.github.io/Font-Awesome-More/) extensions through a single require (without IE7 support).
+This gem vendors all the [font-awesome-more](http://gregoryloucas.github.io/Font-Awesome-More/) extensions through a single require (without IE7 support).  Can be used with or without less / scss.
 
 ## Usage
 
