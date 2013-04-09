@@ -1,4 +1,17 @@
-more-font-awesome-rails
-=======================
+This gem vendors all the [font-awesome-more](http://gregoryloucas.github.io/Font-Awesome-More/) extensions through a single require (without IE7 support).
 
-Vendors font-awesome-more for rails (less and scss)
+## Usage
+
+```
+# Gemfile
+gem 'more-font-awesome-rails', '~> 3.0.2'
+
+# application.css
+//= require 'font-awesome-more'
+```
+
+If you're using bootstrap make sure to require bootstrap first.
+
+## Versioning
+
+`major.minor.patch` version will mirror the font-awesome-more version currently being vendored.
