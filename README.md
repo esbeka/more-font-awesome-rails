@@ -4,6 +4,7 @@ This gem vendors all the [font-awesome-more](http://gregoryloucas.github.io/Font
 
 ```
 # Gemfile
+# See http://rubygems.org/gems/more-font-awesome-rails for the current version
 gem 'more-font-awesome-rails', '~> 3.0.2'
 
 # application.css

@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = MoreFontAwesomeRails::VERSION
   s.authors     = ["Ryan Mohr @islandr"]
   s.email       = ["ryan.mohr@gmail.com"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/islandr/more-font-awesome-rails"
   s.summary     = "Vendors font-awesome-more for rails (less and scss)"
   s.description = "Vendors font-awesome-more for rails (less and scss)"
 
