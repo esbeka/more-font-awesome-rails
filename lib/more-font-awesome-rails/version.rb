@@ -1,3 +1,3 @@
 module MoreFontAwesomeRails
-  VERSION = "3.0.2.1"
+  VERSION = "3.0.2.2"
 end

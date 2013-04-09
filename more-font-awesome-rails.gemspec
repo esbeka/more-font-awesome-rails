@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.summary     = "Vendors font-awesome-more for rails (less and scss)"
   s.description = "Vendors font-awesome-more for rails (less and scss)"
 
-  s.files = Dir["{lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.md"]
+  s.files = Dir["{lib,vendor}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.md"]
 
   s.add_dependency "railties", ">= 3.1"
 end
