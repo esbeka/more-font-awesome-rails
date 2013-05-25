@@ -8,12 +8,12 @@ Gem::Specification.new do |s|
   s.name        = "more-font-awesome-rails"
   s.version     = MoreFontAwesomeRails::VERSION
   s.authors     = ["Ryan Mohr @islandr"]
-  s.email       = ["ryan.mohr@gmail.com"]
+  s.email       = ["ryan@kumupowered.com"]
   s.homepage    = "https://github.com/islandr/more-font-awesome-rails"
   s.summary     = "Vendors font-awesome-more for rails (less and scss)"
   s.description = "Vendors font-awesome-more for rails (less and scss)"
 
-  s.files = Dir["{lib,vendor}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.md"]
+  s.files = Dir["{lib,vendor}/**/*"] + ["LICENSE.md", "Rakefile", "README.md"]
 
   s.add_dependency "railties", ">= 3.1"
 end
